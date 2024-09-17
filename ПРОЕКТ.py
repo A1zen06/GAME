@@ -10,8 +10,8 @@ pygame.display.set_caption('run crab! run!')
 
 f1 = pygame.font.Font(None, 50)
 f2 = pygame.font.Font(None, 50)
-text1 = f1.render('You Lose!', 1,(255, 0, 0))
-text2 = f2.render("You Win! THX FOR PLAY!!!",1,(0,0,0))
+text1 = f1.render('вы проиграли соси хуй соси хуй хуй соси длинный в спермочке беленькой пенка спермная глотай!', 1,(255, 0, 0))
+text2 = f2.render("вы выиграли соси хуй соси хуй!!!",1,(0,0,0))
 
 #переменные
 
